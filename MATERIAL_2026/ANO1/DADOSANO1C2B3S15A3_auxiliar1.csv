@@ -1,0 +1,11 @@
+id_produto,nome_produto,categoria,preco,quantidade_estoque,data_cadastro
+1,Teclado Mecânico,Eletrônicos,250.00,15,2023-01-10
+2,Mouse Gamer,Eletrônicos,120.00,30,2023-01-12
+3,Monitor 24pol,Eletrônicos,850.00,8,2023-01-15
+4,Cadeira Office,Móveis,1200.00,,2023-01-20
+5,Webcam HD,Eletrônicos,180.00,20,2023-02-01
+6,Mesa em L,Móveis,450.00,5,2023-02-05
+7,Fone Bluetooth,Eletrônicos,99999.00,12,2023-02-10
+8,Suporte Monitor,Acessórios,,10,2023-02-15
+9,Mousepad XL,Acessórios,60.00,50,2023-02-20
+10,Cabo HDMI 2m,Acessórios,35.00,100,2023-02-25

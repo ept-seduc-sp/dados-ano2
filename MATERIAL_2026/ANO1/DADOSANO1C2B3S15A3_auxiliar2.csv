@@ -1,0 +1,6 @@
+id_sensor,localizacao,temperatura,umidade,pressao,status_bateria,ultima_leitura
+S01,Zona Norte,25.4,60,1012,85%,2023-12-01
+S02,Zona Sul,28.1,,1010,40%,2023-12-01
+S03,Zona Leste,22.0,55,1015,10%,2023-12-01
+S04,Zona Oeste,,65,1011,92%,2023-12-01
+S05,Centro,30.5,50,,55%,2023-12-01

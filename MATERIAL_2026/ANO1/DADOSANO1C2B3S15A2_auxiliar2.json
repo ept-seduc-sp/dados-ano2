@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nome": "Ana Silva",
+        "cidade": "São Paulo",
+        "email": "ana@email.com"
+    },
+    {
+        "id": 2,
+        "nome": "Bruno Costa",
+        "cidade": "Rio de Janeiro",
+        "email": "bruno@email.com"
+    },
+    {
+        "id": 3,
+        "nome": "Carla Souza",
+        "cidade": "Belo Horizonte",
+        "email": "carla@email.com"
+    },
+    {
+        "id": 4,
+        "nome": "Diego Lima",
+        "cidade": "Curitiba",
+        "email": "diego@email.com"
+    },
+    {
+        "id": 5,
+        "nome": "Elena Dias",
+        "cidade": "Recife",
+        "email": "elena@email.com"
+    }
+]
