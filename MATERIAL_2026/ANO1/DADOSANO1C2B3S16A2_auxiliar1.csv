@@ -1,0 +1,6 @@
+id_produto,produto,quantidade,preco_unitario,regiao
+101,Mouse Gamer,15,120.50,Sul
+102,Teclado Mecanico,8,350.00,Norte
+103,Monitor 24pol,5,980.00,Sudeste
+104,Headset USB,20,180.00,Sudeste
+105,Webcam HD,12,250.00,Nordeste
