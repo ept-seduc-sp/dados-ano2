@@ -1,0 +1,11 @@
+ID_Venda,cod_prod,Qtd,vl_un,obs_interna
+101,ARZ-50,2,150.00,revisar estoque
+102,BTA-12,1,89.90,cliente VIP
+103,ARZ-50,5,145.00,desconto atacado
+104,CXP-09,10,12.50,promocao verao
+105,DLK-44,3,210.00,entrega urgente
+106,BTA-12,1,89.90,nfe emitida
+107,CXP-09,2,15.00,venda balcao
+108,DLK-44,1,210.00,sem observacoes
+109,ARZ-50,4,150.00,aguardando pagto
+110,BTA-12,2,85.00,queima de estoque
