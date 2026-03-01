@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nome": "Ana",
+        "idade": 23,
+        "salario": 2500.5
+    },
+    {
+        "id": 2,
+        "nome": "Bruno",
+        "idade": 35,
+        "salario": 3800.0
+    },
+    {
+        "id": 3,
+        "nome": "Carlos",
+        "idade": 29,
+        "salario": 3100.75
+    },
+    {
+        "id": 4,
+        "nome": "Daniela",
+        "idade": 41,
+        "salario": 5200.0
+    },
+    {
+        "id": 5,
+        "nome": "Eduardo",
+        "idade": 30,
+        "salario": 2900.25
+    }
+]
