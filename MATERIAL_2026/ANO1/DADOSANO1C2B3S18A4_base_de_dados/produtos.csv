@@ -1,0 +1,7 @@
+﻿id_prod,nome_produto,categoria,vlr_custo,vlr_preco
+101,Arroz 5kg,Grãos,15.5,"R$ 25,90"
+102,Feijão 1kg,Grãos,4.2,"R$ 8,50"
+103,Óleo de Soja,Mercearia,,"R$ 7,20"
+104,Açúcar 1kg,Mercearia,3.1,"R$ 5,50"
+105,Café 500g,Mercearia,8.9,"R$ 14,00"
+106,Macarrão,Massas,2.5,"R$ 4,80"
