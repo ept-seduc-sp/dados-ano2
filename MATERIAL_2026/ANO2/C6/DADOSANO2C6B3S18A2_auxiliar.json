@@ -1,0 +1,27 @@
+[
+  {
+    "centro_distribuicao": "CD Norte",
+    "regiao": "Norte",
+    "quantidade_entregas": 18
+  },
+  {
+    "centro_distribuicao": "CD Sul",
+    "regiao": "indefinida",
+    "quantidade_entregas": 25
+  },
+  {
+    "centro_distribuicao": "CD Leste",
+    "regiao": "Leste",
+    "quantidade_entregas": null
+  },
+  {
+    "centro_distribuicao": "CD Oeste",
+    "regiao": "Oeste",
+    "quantidade_entregas": 14
+  },
+  {
+    "centro_distribuicao": "CD Central",
+    "regiao": "indefinida",
+    "quantidade_entregas": null
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "cliente": "Ana Souza",
+    "produto": "Caderno",
+    "quantidade": 3,
+    "preco_unitario": 25
+  },
+  {
+    "cliente": "Lucas Lima",
+    "produto": "Caneta",
+    "quantidade": 10,
+    "preco_unitario": 3
+  },
+  {
+    "cliente": "Mariana Alves",
+    "produto": "Mochila",
+    "quantidade": 1,
+    "preco_unitario": 120
+  },
+  {
+    "cliente": "Pedro Rocha",
+    "produto": "Agenda",
+    "quantidade": 2,
+    "preco_unitario": 40
+  }
+]

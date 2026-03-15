@@ -1,0 +1,51 @@
+id_pedido,cliente,produto,categoria,quantidade,preco_unitario,regiao,status_entrega
+1,Ana,Teclado,Periféricos,2,120,Norte,entregue
+2,Bruno,Mouse,Periféricos,5,60,Sul,pend
+3,Carla,Monitor,Hardware,1,900,Leste,entregue
+4,Diego,Headset,Áudio,3,150,Oeste,entregue
+5,Elisa,Notebook,Hardware,1,3500,Norte,pend
+6,Felipe,Webcam,Periféricos,4,210,Sul,entregue
+7,Gabriela,Cadeira,Móveis,1,980,Leste,entregue
+8,Henrique,Mesa,Móveis,1,1250,Oeste,pend
+9,Isabela,SSD,Hardware,2,420,Norte,entregue
+10,João,HD Externo,Hardware,2,380,indefinida,entregue
+11,Karen,Roteador,Redes,3,260,Sul,pend
+12,Leandro,Switch,Redes,1,890,Leste,entregue
+13,Marina,Impressora,Periféricos,1,780,Oeste,entregue
+14,Nicolas,Scanner,Periféricos,2,640,Norte,pend
+15,Olivia,Projetor,Áudio,1,2400,Sul,entregue
+16,Paulo,Microfone,Áudio,4,320,Leste,pend
+17,Renata,Caixa de Som,Áudio,2,410,Oeste,entregue
+18,Sergio,Placa de Vídeo,Hardware,1,2800,indefinida,pend
+19,Talita,Fonte,Hardware,3,350,Norte,entregue
+20,Uriel,Memória RAM,Hardware,4,230,Sul,entregue
+21,Valeria,Adaptador,Periféricos,6,45,Leste,pend
+22,William,Teclado,Periféricos,,120,Oeste,entregue
+23,Xenia,Mouse,Periféricos,8,,Norte,pend
+24,Yara,Monitor,Hardware,2,900,Sul,entregue
+25,Zeca,Notebook,Hardware,,3500,Leste,pend
+26,Aline,Headset,Áudio,5,150,Oeste,entregue
+27,Beto,Webcam,Periféricos,3,210,Norte,entregue
+28,Cintia,Cadeira,Móveis,2,,Sul,pend
+29,Davi,Mesa,Móveis,1,1250,indefinida,entregue
+30,Ester,SSD,Hardware,3,420,Leste,pend
+31,Fabio,HD Externo,Hardware,2,380,Oeste,entregue
+32,Giovana,Roteador,Redes,4,260,Norte,pend
+33,Heitor,Switch,Redes,1,890,Sul,entregue
+34,Ingrid,Impressora,Periféricos,2,780,Leste,pend
+35,Jonas,Scanner,Periféricos,,640,Oeste,entregue
+36,Lia,Projetor,Áudio,1,,Norte,pend
+37,Mauro,Microfone,Áudio,3,320,Sul,entregue
+38,Nina,Caixa de Som,Áudio,2,410,Leste,pend
+39,Otavio,Placa de Vídeo,Hardware,1,2800,Oeste,entregue
+40,Priscila,Fonte,Hardware,4,350,indefinida,pend
+41,Rafa,Memória RAM,Hardware,5,230,Norte,entregue
+42,Sara,Adaptador,Periféricos,7,45,Sul,pend
+43,Tiago,Teclado,Periféricos,2,,Leste,entregue
+44,Vivi,Mouse,Periféricos,,60,Oeste,pend
+45,Wesley,Monitor,Hardware,1,900,Norte,entregue
+46,Bianca,Notebook,Hardware,2,3500,Sul,pend
+47,Caio,Headset,Áudio,4,150,Leste,entregue
+48,Debora,Webcam,Periféricos,3,210,Oeste,pend
+49,Edu,Cadeira,Móveis,1,980,Norte,entregue
+50,Flora,Mesa,Móveis,2,1250,Sul,pend
