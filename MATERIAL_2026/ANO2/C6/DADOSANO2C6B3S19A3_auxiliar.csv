@@ -1,0 +1,19 @@
+id_venda,produto,setor,regiao,valor_venda
+101,Notebook,Informática,Sudeste,3500
+102,Mouse,Informática,Sul,80
+103,Teclado,Informática,Nordeste,150
+104,Smartphone,Eletrônicos,Sudeste,2200
+105,TV,Eletrônicos,Sul,3000
+106,Fone de ouvido,Eletrônicos,Norte,120
+107,Geladeira,Eletrodomésticos,Sudeste,2800
+108,Micro-ondas,Eletrodomésticos,Centro-Oeste,600
+109,Liquidificador,Eletrodomésticos,Nordeste,200
+110,Câmera,Eletrônicos,Sul,1800
+111,Monitor,Informática,Sudeste,900
+112,Impressora,Informática,Norte,700
+113,Caixa de som,Eletrônicos,Nordeste,250
+114,Ventilador,Eletrodomésticos,Sul,180
+115,Ar-condicionado,Eletrodomésticos,Sudeste,2500
+116,Tablet,Eletrônicos,Centro-Oeste,1400
+117,Roteador,Informática,Sul,300
+118,Smartwatch,Eletrônicos,Sudeste,950
