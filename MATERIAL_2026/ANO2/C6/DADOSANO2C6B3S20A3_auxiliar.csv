@@ -1,0 +1,11 @@
+id_pedido,cliente,cidade,data_pedido,data_entrega,valor
+1,Ana,São Paulo,2025-05-03,2025-05-06,350.0
+2,Bruno,Campinas,2025-05-05,2025-05-09,180.5
+3,Carla,Santos,2025-05-12,2025-05-15,250.9
+4,Diego,Sorocaba,2025-06-01,2025-06-05,980.0
+5,Elisa,Ribeirão Preto,2025-06-08,2025-06-12,220.4
+6,Felipe,São José dos Campos,2025-06-15,2025-06-18,310.0
+7,Gabriela,Osasco,2025-07-02,2025-07-08,1299.99
+8,Henrique,Guarulhos,2025-07-10,2025-07-12,420.0
+9,Isabela,São Bernardo do Campo,2025-07-18,2025-07-21,899.9
+10,João,Jundiaí,2025-08-04,2025-08-07,145.0

@@ -1,0 +1,11 @@
+id_venda,produto,data_venda,categoria,valor
+1,Notebook,2025-05-03,Informática,3500.0
+2,Mouse,2025-05-05,Informática,80.5
+3,Teclado,2025-05-12,Informática,150.9
+4,Monitor,2025-06-01,Eletrônicos,980.0
+5,Headset,2025-06-08,Eletrônicos,220.4
+6,Webcam,2025-06-15,Eletrônicos,310.0
+7,Cadeira Gamer,2025-07-02,Móveis,1299.99
+8,HD Externo,2025-07-10,Informática,420.0
+9,Impressora,2025-07-18,Informática,899.9
+10,Pen Drive,2025-08-04,Informática,45.0
