@@ -1,0 +1,118 @@
+mes,ordem_mes,atividade,indice_volume
+dez/2024,1,Comércio varejista (total),126.6
+jan/2025,2,Comércio varejista (total),102.7
+fev/2025,3,Comércio varejista (total),97.4
+mar/2025,4,Comércio varejista (total),104.5
+abr/2025,5,Comércio varejista (total),104.2
+mai/2025,6,Comércio varejista (total),108.5
+jun/2025,7,Comércio varejista (total),102.1
+jul/2025,8,Comércio varejista (total),106.9
+ago/2025,9,Comércio varejista (total),107.2
+set/2025,10,Comércio varejista (total),102.7
+out/2025,11,Comércio varejista (total),108.7
+nov/2025,12,Comércio varejista (total),116.1
+dez/2025,13,Comércio varejista (total),129.6
+dez/2024,1,Combustíveis e lubrificantes,105.3
+jan/2025,2,Combustíveis e lubrificantes,102.2
+fev/2025,3,Combustíveis e lubrificantes,96.6
+mar/2025,4,Combustíveis e lubrificantes,102.0
+abr/2025,5,Combustíveis e lubrificantes,98.9
+mai/2025,6,Combustíveis e lubrificantes,101.7
+jun/2025,7,Combustíveis e lubrificantes,98.0
+jul/2025,8,Combustíveis e lubrificantes,106.0
+ago/2025,9,Combustíveis e lubrificantes,105.6
+set/2025,10,Combustíveis e lubrificantes,102.5
+out/2025,11,Combustíveis e lubrificantes,108.4
+nov/2025,12,Combustíveis e lubrificantes,104.5
+dez/2025,13,Combustíveis e lubrificantes,108.4
+dez/2024,1,Supermercados e alimentos,127.2
+jan/2025,2,Supermercados e alimentos,105.0
+fev/2025,3,Supermercados e alimentos,101.1
+mar/2025,4,Supermercados e alimentos,108.9
+abr/2025,5,Supermercados e alimentos,109.4
+mai/2025,6,Supermercados e alimentos,109.4
+jun/2025,7,Supermercados e alimentos,102.9
+jul/2025,8,Supermercados e alimentos,107.1
+ago/2025,9,Supermercados e alimentos,110.7
+set/2025,10,Supermercados e alimentos,104.8
+out/2025,11,Supermercados e alimentos,110.4
+nov/2025,12,Supermercados e alimentos,113.0
+dez/2025,13,Supermercados e alimentos,128.8
+dez/2024,1,"Tecidos, vestuário e calçados",174.2
+jan/2025,2,"Tecidos, vestuário e calçados",81.9
+fev/2025,3,"Tecidos, vestuário e calçados",76.9
+mar/2025,4,"Tecidos, vestuário e calçados",82.0
+abr/2025,5,"Tecidos, vestuário e calçados",90.1
+mai/2025,6,"Tecidos, vestuário e calçados",108.8
+jun/2025,7,"Tecidos, vestuário e calçados",107.9
+jul/2025,8,"Tecidos, vestuário e calçados",99.7
+ago/2025,9,"Tecidos, vestuário e calçados",96.0
+set/2025,10,"Tecidos, vestuário e calçados",83.9
+out/2025,11,"Tecidos, vestuário e calçados",90.6
+nov/2025,12,"Tecidos, vestuário e calçados",105.2
+dez/2025,13,"Tecidos, vestuário e calçados",169.9
+dez/2024,1,Móveis e eletrodomésticos,133.6
+jan/2025,2,Móveis e eletrodomésticos,107.6
+fev/2025,3,Móveis e eletrodomésticos,98.7
+mar/2025,4,Móveis e eletrodomésticos,102.8
+abr/2025,5,Móveis e eletrodomésticos,97.6
+mai/2025,6,Móveis e eletrodomésticos,113.0
+jun/2025,7,Móveis e eletrodomésticos,100.5
+jul/2025,8,Móveis e eletrodomésticos,109.9
+ago/2025,9,Móveis e eletrodomésticos,104.2
+set/2025,10,Móveis e eletrodomésticos,104.1
+out/2025,11,Móveis e eletrodomésticos,110.5
+nov/2025,12,Móveis e eletrodomésticos,141.7
+dez/2025,13,Móveis e eletrodomésticos,142.8
+dez/2024,1,Artigos farmacêuticos,120.5
+jan/2025,2,Artigos farmacêuticos,107.8
+fev/2025,3,Artigos farmacêuticos,104.1
+mar/2025,4,Artigos farmacêuticos,115.6
+abr/2025,5,Artigos farmacêuticos,109.9
+mai/2025,6,Artigos farmacêuticos,123.4
+jun/2025,7,Artigos farmacêuticos,115.2
+jul/2025,8,Artigos farmacêuticos,119.2
+ago/2025,9,Artigos farmacêuticos,118.5
+set/2025,10,Artigos farmacêuticos,118.5
+out/2025,11,Artigos farmacêuticos,122.1
+nov/2025,12,Artigos farmacêuticos,126.0
+dez/2025,13,Artigos farmacêuticos,128.7
+dez/2024,1,Livros e papelaria,112.1
+jan/2025,2,Livros e papelaria,160.2
+fev/2025,3,Livros e papelaria,110.0
+mar/2025,4,Livros e papelaria,75.3
+abr/2025,5,Livros e papelaria,69.5
+mai/2025,6,Livros e papelaria,76.9
+jun/2025,7,Livros e papelaria,75.1
+jul/2025,8,Livros e papelaria,81.6
+ago/2025,9,Livros e papelaria,73.7
+set/2025,10,Livros e papelaria,64.7
+out/2025,11,Livros e papelaria,72.5
+nov/2025,12,Livros e papelaria,77.9
+dez/2025,13,Livros e papelaria,110.3
+dez/2024,1,Informática e comunicação,108.6
+jan/2025,2,Informática e comunicação,101.8
+fev/2025,3,Informática e comunicação,91.8
+mar/2025,4,Informática e comunicação,97.7
+abr/2025,5,Informática e comunicação,94.9
+mai/2025,6,Informática e comunicação,103.3
+jun/2025,7,Informática e comunicação,97.0
+jul/2025,8,Informática e comunicação,102.3
+ago/2025,9,Informática e comunicação,98.2
+set/2025,10,Informática e comunicação,97.8
+out/2025,11,Informática e comunicação,112.8
+nov/2025,12,Informática e comunicação,142.4
+dez/2025,13,Informática e comunicação,142.4
+dez/2024,1,Outros artigos de uso pessoal,123.5
+jan/2025,2,Outros artigos de uso pessoal,94.1
+fev/2025,3,Outros artigos de uso pessoal,83.6
+mar/2025,4,Outros artigos de uso pessoal,89.8
+abr/2025,5,Outros artigos de uso pessoal,93.0
+mai/2025,6,Outros artigos de uso pessoal,96.7
+jun/2025,7,Outros artigos de uso pessoal,89.0
+jul/2025,8,Outros artigos de uso pessoal,99.2
+ago/2025,9,Outros artigos de uso pessoal,90.6
+set/2025,10,Outros artigos de uso pessoal,88.8
+out/2025,11,Outros artigos de uso pessoal,97.7
+nov/2025,12,Outros artigos de uso pessoal,123.9
+dez/2025,13,Outros artigos de uso pessoal,124.2
