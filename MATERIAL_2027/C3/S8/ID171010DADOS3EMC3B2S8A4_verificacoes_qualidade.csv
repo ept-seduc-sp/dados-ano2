@@ -1,0 +1,11 @@
+﻿evidencia_id,escopo,pedido_id,campo,condicao_observada,resultado_verificacao,valor_confirmado,fonte_operacional
+EV01,regra,,desconto_pct,cupom_aplicado = 'Não' e desconto_pct ausente,"No sistema legado, quando não há cupom, o campo de desconto pode ficar vazio; nesse contexto o desconto contratual é 0%.",0.00,Regra comercial documentada
+EV02,regra,,distancia_km,modalidade_entrega = 'Retirada',"Para retirada no ponto de coleta, distância de entrega não se aplica e permanece sem valor.",,Manual logístico
+EV03,regra,,avaliacao_cliente_1a5,avaliacao ausente,"A pesquisa pós-entrega é opcional; ausência significa que não houve resposta registrada, não uma nota zero.",,Política da pesquisa pós-entrega
+EV04,pedido,PED-2026-0056,tempo_separacao_min,valor ausente,"Os eventos de início e fim no WMS foram recuperados e confirmam 37,0 minutos.",37.00,Log de eventos do WMS
+EV05,pedido,PED-2026-0094,tempo_separacao_min,valor ausente,O log de eventos está incompleto e não existe fonte adicional para recuperar o tempo correto.,,Chamado de suporte do WMS
+EV06,pedido,PED-2026-0047,tempo_separacao_min,"valor 580,0","O WMS registra 58,0 minutos; 580,0 resultou de erro de digitação na integração.",58.00,Log de eventos do WMS
+EV07,pedido,PED-2026-0112,itens_qtd,valor 99,Nota fiscal e conferência de expedição confirmam 9 itens.,9.00,Nota fiscal e conferência de expedição
+EV08,pedido,PED-2026-0159,tempo_separacao_min,"valor 244,0",O registro é correto. O pedido de alto valor passou por conferência manual e validação antifraude antes da liberação.,244.00,WMS + chamado operacional
+EV09,pedido,PED-2026-0136,tempo_separacao_min,"valor 410,0",O cronômetro do processo permaneceu aberto após o fim da separação. O valor é inválido e o tempo correto não pôde ser recuperado.,,Auditoria do WMS
+EV10,pedido,PED-2026-0171,tempo_separacao_min,"valor 190,0",Os registros de apoio desse intervalo ficaram indisponíveis após uma falha de sincronização. Não foi possível confirmar nem refutar o valor.,,Chamado de infraestrutura

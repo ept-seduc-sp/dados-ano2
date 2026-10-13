@@ -1,0 +1,181 @@
+﻿pedido_id,data_pedido,centro_distribuicao,turno,canal_venda,categoria_principal,modalidade_entrega,itens_qtd,valor_pedido_reais,cupom_aplicado,desconto_pct,distancia_km,tempo_separacao_min,avaliacao_cliente_1a5
+PED-2026-0037,2026-09-21 07:05,CD_Cajamar_SP,Manhã,App,Beleza,Entrega expressa,2,89.55,Não,0.00,7.50,24.60,
+PED-2026-0100,2026-09-21 09:29,CD_Cajamar_SP,Manhã,App,Casa e cozinha,Retirada,3,325.31,Não,0.00,,20.10,5.00
+PED-2026-0030,2026-09-21 10:53,CD_Cajamar_SP,Manhã,Marketplace,Esporte,Entrega expressa,6,466.34,Não,0.00,27.30,42.80,4.00
+PED-2026-0172,2026-09-21 12:13,CD_Cajamar_SP,Tarde,Site,Casa e cozinha,Entrega padrão,2,114.36,Sim,5.00,25.90,22.20,
+PED-2026-0055,2026-09-21 12:14,CD_Cajamar_SP,Tarde,Marketplace,Casa e cozinha,Retirada,2,222.05,Sim,15.00,,20.40,4.00
+PED-2026-0067,2026-09-21 13:20,CD_Contagem_MG,Tarde,Site,Eletrônicos,Entrega expressa,7,897.86,Não,0.00,41.80,59.20,5.00
+PED-2026-0004,2026-09-21 13:48,CD_Cajamar_SP,Tarde,App,Beleza,Retirada,5,390.36,Não,0.00,,37.00,4.00
+PED-2026-0142,2026-09-21 13:56,CD_Guarulhos_SP,Tarde,App,Moda,Entrega padrão,2,149.49,Não,0.00,18.40,17.40,4.00
+PED-2026-0119,2026-09-21 13:59,CD_Guarulhos_SP,Tarde,Site,Esporte,Entrega padrão,6,705.94,Não,0.00,8.10,59.70,5.00
+PED-2026-0057,2026-09-21 14:50,CD_Cajamar_SP,Tarde,Site,Moda,Entrega expressa,5,416.93,Sim,20.00,25.60,33.10,4.00
+PED-2026-0051,2026-09-21 17:41,CD_Guarulhos_SP,Tarde,Marketplace,Moda,Entrega padrão,6,649.11,Não,0.00,24.70,45.20,3.00
+PED-2026-0089,2026-09-21 17:55,CD_Guarulhos_SP,Tarde,Site,Casa e cozinha,Entrega expressa,3,291.48,Sim,5.00,30.20,24.80,4.00
+PED-2026-0120,2026-09-21 18:03,CD_Cajamar_SP,Noite,Marketplace,Casa e cozinha,Entrega padrão,6,887.39,Não,0.00,48.10,57.70,4.00
+PED-2026-0168,2026-09-21 18:29,CD_Cajamar_SP,Noite,Site,Eletrônicos,Entrega padrão,2,514.43,Não,0.00,13.90,38.10,4.00
+PED-2026-0139,2026-09-21 19:07,CD_Contagem_MG,Noite,App,Moda,Entrega padrão,5,376.80,Não,0.00,41.90,41.20,3.00
+PED-2026-0169,2026-09-21 19:10,CD_Guarulhos_SP,Noite,Site,Casa e cozinha,Entrega expressa,6,547.74,Não,0.00,18.60,48.30,4.00
+PED-2026-0017,2026-09-21 19:19,CD_Cajamar_SP,Noite,Marketplace,Casa e cozinha,Retirada,3,632.11,Sim,5.00,,30.30,
+PED-2026-0077,2026-09-21 19:27,CD_Guarulhos_SP,Noite,Site,Moda,Entrega expressa,2,224.89,Não,0.00,4.70,11.50,
+PED-2026-0137,2026-09-21 19:51,CD_Contagem_MG,Noite,App,Moda,Entrega padrão,6,446.22,Sim,10.00,17.20,42.70,4.00
+PED-2026-0161,2026-09-21 20:34,CD_Contagem_MG,Noite,App,Casa e cozinha,Entrega padrão,2,218.30,Sim,10.00,8.30,25.90,4.00
+PED-2026-0135,2026-09-21 21:41,CD_Cajamar_SP,Noite,Site,Moda,Entrega expressa,7,548.34,Não,0.00,16.10,49.90,
+PED-2026-0117,2026-09-21 21:44,CD_Cajamar_SP,Noite,Site,Beleza,Entrega expressa,4,374.03,Não,0.00,65.00,29.70,3.00
+PED-2026-0098,2026-09-22 07:01,CD_Cajamar_SP,Manhã,App,Esporte,Entrega expressa,6,1265.93,Não,0.00,12.90,32.80,5.00
+PED-2026-0026,2026-09-22 07:23,CD_Guarulhos_SP,Manhã,Site,Casa e cozinha,Entrega padrão,1,88.32,Não,0.00,7.70,22.30,4.00
+PED-2026-0046,2026-09-22 08:04,CD_Guarulhos_SP,Manhã,App,Eletrônicos,Entrega expressa,5,1417.03,Sim,15.00,7.70,25.00,4.00
+PED-2026-0034,2026-09-22 08:52,CD_Contagem_MG,Manhã,App,Moda,Entrega padrão,4,407.64,Não,0.00,32.30,25.80,5.00
+PED-2026-0088,2026-09-22 09:06,CD_Cajamar_SP,Manhã,App,Esporte,Retirada,2,282.69,Não,0.00,,30.10,5.00
+PED-2026-0035,2026-09-22 09:32,CD_Guarulhos_SP,Manhã,Site,Casa e cozinha,Entrega expressa,1,152.87,Não,0.00,14.40,25.60,5.00
+PED-2026-0128,2026-09-22 10:11,CD_Guarulhos_SP,Manhã,App,Moda,Entrega padrão,6,520.72,Sim,10.00,23.40,40.40,5.00
+PED-2026-0164,2026-09-22 10:13,CD_Contagem_MG,Manhã,App,Casa e cozinha,Entrega padrão,1,146.42,Não,0.00,21.00,22.00,4.00
+PED-2026-0140,2026-09-22 10:21,CD_Guarulhos_SP,Manhã,Site,Moda,Entrega padrão,3,258.19,Sim,10.00,19.70,38.80,4.00
+PED-2026-0048,2026-09-22 10:40,CD_Cajamar_SP,Manhã,App,Beleza,Retirada,7,371.26,Sim,5.00,,55.00,
+PED-2026-0162,2026-09-22 10:49,CD_Contagem_MG,Manhã,Site,Beleza,Entrega padrão,3,304.97,Sim,5.00,20.20,23.60,4.00
+PED-2026-0144,2026-09-22 10:51,CD_Contagem_MG,Manhã,App,Casa e cozinha,Entrega padrão,4,613.31,Não,0.00,15.70,40.10,4.00
+PED-2026-0110,2026-09-22 11:09,CD_Contagem_MG,Manhã,Site,Beleza,Entrega padrão,4,371.41,Não,0.00,21.30,32.40,4.00
+PED-2026-0044,2026-09-22 11:23,CD_Cajamar_SP,Manhã,Marketplace,Moda,Retirada,4,242.27,Sim,15.00,,40.40,
+PED-2026-0058,2026-09-22 11:34,CD_Contagem_MG,Manhã,App,Esporte,Entrega expressa,4,646.70,Não,0.00,10.60,35.30,
+PED-2026-0008,2026-09-22 11:41,CD_Guarulhos_SP,Manhã,App,Beleza,Entrega padrão,6,569.87,Sim,5.00,14.70,40.20,
+PED-2026-0134,2026-09-22 12:19,CD_Guarulhos_SP,Tarde,App,Beleza,Entrega padrão,6,462.37,Não,0.00,48.40,50.50,
+PED-2026-0074,2026-09-22 12:24,CD_Contagem_MG,Tarde,App,Moda,Retirada,4,354.65,Sim,15.00,,31.20,4.00
+PED-2026-0014,2026-09-22 12:30,CD_Cajamar_SP,Tarde,App,Moda,Retirada,3,232.74,Sim,15.00,,10.00,
+PED-2026-0056,2026-09-22 12:55,CD_Guarulhos_SP,Tarde,Site,Casa e cozinha,Entrega padrão,5,477.40,Não,0.00,20.70,,5.00
+PED-2026-0066,2026-09-22 13:38,CD_Cajamar_SP,Tarde,Site,Moda,Entrega padrão,5,308.57,Não,0.00,17.70,34.10,4.00
+PED-2026-0019,2026-09-22 13:53,CD_Guarulhos_SP,Tarde,Site,Eletrônicos,Entrega padrão,5,757.75,Sim,5.00,19.90,32.10,5.00
+PED-2026-0111,2026-09-22 14:41,CD_Guarulhos_SP,Tarde,App,Beleza,Entrega padrão,2,130.33,Não,0.00,35.00,16.40,5.00
+PED-2026-0063,2026-09-22 15:04,CD_Guarulhos_SP,Tarde,Site,Casa e cozinha,Entrega padrão,3,296.19,Sim,5.00,35.10,29.90,4.00
+PED-2026-0065,2026-09-22 16:21,CD_Guarulhos_SP,Tarde,Site,Moda,Retirada,5,375.13,Não,0.00,,36.80,5.00
+PED-2026-0059,2026-09-22 18:14,CD_Guarulhos_SP,Noite,Site,Moda,Entrega padrão,2,234.63,Não,,19.30,21.40,
+PED-2026-0032,2026-09-22 20:14,CD_Contagem_MG,Noite,App,Moda,Entrega padrão,4,192.13,Sim,20.00,40.60,28.70,3.00
+PED-2026-0071,2026-09-22 20:34,CD_Cajamar_SP,Noite,App,Casa e cozinha,Entrega expressa,4,384.62,Não,0.00,2.10,37.50,4.00
+PED-2026-0016,2026-09-22 20:56,CD_Contagem_MG,Noite,Site,Moda,Entrega padrão,5,590.87,Não,0.00,15.60,34.40,5.00
+PED-2026-0133,2026-09-22 21:21,CD_Guarulhos_SP,Noite,Site,Moda,Entrega padrão,4,265.12,Sim,5.00,9.50,38.70,5.00
+PED-2026-0018,2026-09-22 21:28,CD_Guarulhos_SP,Noite,Site,Esporte,Entrega expressa,4,432.95,Sim,5.00,2.90,29.30,5.00
+PED-2026-0040,2026-09-22 21:46,CD_Cajamar_SP,Noite,Site,Eletrônicos,Entrega padrão,4,936.62,Não,0.00,33.30,25.70,5.00
+PED-2026-0167,2026-09-22 21:47,CD_Guarulhos_SP,Noite,Marketplace,Eletrônicos,Entrega expressa,6,1942.62,Sim,5.00,9.40,39.80,5.00
+PED-2026-0043,2026-09-23 07:00,CD_Cajamar_SP,Manhã,Marketplace,Casa e cozinha,Entrega expressa,3,418.35,Não,0.00,9.00,26.50,5.00
+PED-2026-0023,2026-09-23 07:22,CD_Guarulhos_SP,Manhã,App,Esporte,Entrega padrão,3,286.25,Não,,6.90,35.60,4.00
+PED-2026-0028,2026-09-23 08:39,CD_Contagem_MG,Manhã,Site,Casa e cozinha,Entrega padrão,4,523.69,Não,0.00,18.80,38.30,4.00
+PED-2026-0041,2026-09-23 08:47,CD_Cajamar_SP,Manhã,App,Moda,Entrega padrão,4,425.37,Não,,19.80,19.90,4.00
+PED-2026-0101,2026-09-23 08:51,CD_Guarulhos_SP,Manhã,Site,Moda,Entrega padrão,4,405.83,Sim,15.00,10.00,43.70,5.00
+PED-2026-0045,2026-09-23 08:54,CD_Cajamar_SP,Manhã,Site,Casa e cozinha,Retirada,3,274.22,Não,0.00,,23.10,5.00
+PED-2026-0015,2026-09-23 10:04,CD_Cajamar_SP,Manhã,Marketplace,Beleza,Entrega padrão,3,225.10,Não,0.00,37.60,22.50,3.00
+PED-2026-0149,2026-09-23 10:36,CD_Guarulhos_SP,Manhã,App,Eletrônicos,Entrega expressa,5,1455.79,Não,0.00,3.00,44.60,5.00
+PED-2026-0177,2026-09-23 11:14,CD_Cajamar_SP,Manhã,App,Casa e cozinha,Entrega padrão,5,459.52,Não,0.00,26.60,37.10,5.00
+PED-2026-0154,2026-09-23 11:23,CD_Cajamar_SP,Manhã,Site,Beleza,Retirada,5,256.00,Não,0.00,,32.30,5.00
+PED-2026-0079,2026-09-23 12:27,CD_Cajamar_SP,Tarde,Marketplace,Moda,Entrega expressa,3,325.47,Não,0.00,12.50,20.70,5.00
+PED-2026-0078,2026-09-23 14:02,CD_Cajamar_SP,Tarde,App,Casa e cozinha,Entrega padrão,1,155.71,Sim,5.00,9.50,16.50,4.00
+PED-2026-0160,2026-09-23 14:05,CD_Contagem_MG,Tarde,Site,Esporte,Entrega padrão,6,438.99,Não,0.00,49.70,43.70,
+PED-2026-0021,2026-09-23 14:08,CD_Cajamar_SP,Tarde,Site,Moda,Entrega padrão,4,191.66,Sim,10.00,36.80,44.30,4.00
+PED-2026-0076,2026-09-23 15:17,CD_Cajamar_SP,Tarde,Site,Casa e cozinha,Retirada,3,267.38,Sim,20.00,,32.50,4.00
+PED-2026-0166,2026-09-23 15:17,CD_Contagem_MG,Tarde,Marketplace,Eletrônicos,Entrega padrão,1,285.09,Sim,10.00,6.60,21.70,
+PED-2026-0105,2026-09-23 15:33,CD_Cajamar_SP,Tarde,Marketplace,Casa e cozinha,Entrega padrão,3,258.70,Não,,32.70,32.40,4.00
+PED-2026-0109,2026-09-23 16:08,CD_Cajamar_SP,Tarde,App,Eletrônicos,Entrega padrão,3,713.31,Sim,10.00,10.90,40.30,4.00
+PED-2026-0094,2026-09-23 17:15,CD_Cajamar_SP,Tarde,Site,Moda,Entrega padrão,6,518.71,Não,0.00,10.40,,4.00
+PED-2026-0092,2026-09-23 17:20,CD_Guarulhos_SP,Tarde,Site,Beleza,Retirada,4,289.28,Não,0.00,,34.10,4.00
+PED-2026-0085,2026-09-23 18:26,CD_Guarulhos_SP,Noite,Marketplace,Eletrônicos,Retirada,3,781.69,Sim,20.00,,32.30,
+PED-2026-0129,2026-09-23 19:13,CD_Guarulhos_SP,Noite,App,Eletrônicos,Entrega expressa,6,847.49,Sim,10.00,13.90,33.50,4.00
+PED-2026-0087,2026-09-23 19:19,CD_Guarulhos_SP,Noite,Site,Casa e cozinha,Entrega padrão,4,242.59,Não,0.00,5.70,36.80,4.00
+PED-2026-0060,2026-09-23 19:49,CD_Cajamar_SP,Noite,Site,Casa e cozinha,Entrega padrão,4,394.58,Não,0.00,7.50,35.40,4.00
+PED-2026-0095,2026-09-23 21:06,CD_Guarulhos_SP,Noite,Marketplace,Eletrônicos,Entrega padrão,3,865.08,Não,0.00,16.20,26.10,4.00
+PED-2026-0147,2026-09-23 21:21,CD_Cajamar_SP,Noite,Marketplace,Moda,Entrega padrão,4,436.55,Não,0.00,13.90,43.20,
+PED-2026-0130,2026-09-24 08:02,CD_Contagem_MG,Manhã,Site,Eletrônicos,Entrega expressa,3,864.17,Não,0.00,20.20,24.40,4.00
+PED-2026-0050,2026-09-24 08:42,CD_Cajamar_SP,Manhã,Site,Casa e cozinha,Entrega padrão,6,609.30,Não,0.00,18.90,43.30,5.00
+PED-2026-0136,2026-09-24 09:59,CD_Cajamar_SP,Manhã,Site,Esporte,Entrega padrão,5,485.64,Não,0.00,35.50,410.00,4.00
+PED-2026-0178,2026-09-24 10:33,CD_Guarulhos_SP,Manhã,Marketplace,Beleza,Entrega padrão,5,420.57,Sim,10.00,23.50,41.30,
+PED-2026-0102,2026-09-24 10:39,CD_Guarulhos_SP,Manhã,Site,Moda,Entrega expressa,3,187.04,Não,0.00,18.90,29.80,
+PED-2026-0002,2026-09-24 11:01,CD_Guarulhos_SP,Manhã,Site,Casa e cozinha,Entrega padrão,5,621.44,Não,0.00,21.10,43.10,
+PED-2026-0011,2026-09-24 11:01,CD_Cajamar_SP,Manhã,Marketplace,Moda,Entrega expressa,1,58.11,Não,0.00,43.20,12.30,
+PED-2026-0145,2026-09-24 11:25,CD_Cajamar_SP,Manhã,App,Casa e cozinha,Entrega padrão,4,431.08,Não,0.00,30.40,44.80,4.00
+PED-2026-0146,2026-09-24 11:32,CD_Cajamar_SP,Manhã,Site,Moda,Entrega padrão,3,519.27,Não,0.00,12.70,35.20,3.00
+PED-2026-0123,2026-09-24 11:35,CD_Cajamar_SP,Manhã,Site,Beleza,Entrega padrão,3,125.88,Não,0.00,9.00,31.70,4.00
+PED-2026-0075,2026-09-24 12:06,CD_Cajamar_SP,Tarde,App,Casa e cozinha,Entrega padrão,4,335.29,Não,0.00,50.10,35.50,5.00
+PED-2026-0138,2026-09-24 12:08,CD_Cajamar_SP,Tarde,Site,Esporte,Entrega padrão,3,355.96,Não,0.00,6.20,26.60,
+PED-2026-0038,2026-09-24 12:17,CD_Cajamar_SP,Tarde,Site,Eletrônicos,Entrega expressa,2,374.46,Não,,9.10,25.70,5.00
+PED-2026-0112,2026-09-24 12:33,CD_Cajamar_SP,Tarde,Site,Casa e cozinha,Entrega padrão,99,290.06,Sim,15.00,31.20,46.40,
+PED-2026-0158,2026-09-24 13:06,CD_Cajamar_SP,Tarde,Marketplace,Esporte,Entrega padrão,5,688.51,Não,0.00,22.50,41.70,3.00
+PED-2026-0020,2026-09-24 14:30,CD_Cajamar_SP,Tarde,Site,Moda,Entrega expressa,3,288.69,Sim,10.00,38.80,24.90,5.00
+PED-2026-0103,2026-09-24 14:36,CD_Guarulhos_SP,Tarde,Marketplace,Casa e cozinha,Entrega expressa,3,619.84,Não,0.00,7.40,22.70,4.00
+PED-2026-0104,2026-09-24 15:04,CD_Contagem_MG,Tarde,App,Beleza,Entrega padrão,3,249.52,Não,0.00,28.10,26.80,5.00
+PED-2026-0072,2026-09-24 15:57,CD_Guarulhos_SP,Tarde,Marketplace,Moda,Retirada,3,261.70,Não,0.00,,41.10,
+PED-2026-0180,2026-09-24 16:28,CD_Cajamar_SP,Tarde,App,Beleza,Entrega padrão,5,245.69,Sim,5.00,16.60,40.90,4.00
+PED-2026-0022,2026-09-24 16:47,CD_Guarulhos_SP,Tarde,Marketplace,Eletrônicos,Entrega padrão,2,393.69,Não,0.00,18.10,20.70,4.00
+PED-2026-0150,2026-09-24 17:02,CD_Cajamar_SP,Tarde,Marketplace,Moda,Retirada,4,390.95,Não,0.00,,30.80,5.00
+PED-2026-0163,2026-09-24 19:02,CD_Guarulhos_SP,Noite,App,Eletrônicos,Entrega padrão,2,601.73,Sim,15.00,6.10,33.30,
+PED-2026-0052,2026-09-24 19:18,CD_Cajamar_SP,Noite,Site,Moda,Entrega padrão,2,97.96,Sim,15.00,11.30,18.80,5.00
+PED-2026-0113,2026-09-24 19:53,CD_Cajamar_SP,Noite,Marketplace,Esporte,Entrega padrão,3,378.80,Não,0.00,6.30,30.40,
+PED-2026-0107,2026-09-24 20:52,CD_Guarulhos_SP,Noite,Site,Beleza,Entrega expressa,5,557.66,Não,0.00,1.30,30.80,
+PED-2026-0153,2026-09-24 21:21,CD_Cajamar_SP,Noite,App,Casa e cozinha,Retirada,2,280.72,Não,,,30.20,5.00
+PED-2026-0115,2026-09-25 07:15,CD_Cajamar_SP,Manhã,App,Moda,Entrega expressa,5,307.13,Não,0.00,12.50,27.40,
+PED-2026-0027,2026-09-25 07:46,CD_Cajamar_SP,Manhã,Marketplace,Casa e cozinha,Entrega padrão,4,515.22,Não,0.00,25.10,40.10,4.00
+PED-2026-0070,2026-09-25 09:01,CD_Guarulhos_SP,Manhã,App,Eletrônicos,Entrega padrão,1,295.25,Não,0.00,20.90,33.50,4.00
+PED-2026-0096,2026-09-25 09:28,CD_Contagem_MG,Manhã,Marketplace,Casa e cozinha,Entrega expressa,5,670.02,Sim,10.00,30.50,32.40,
+PED-2026-0124,2026-09-25 10:45,CD_Guarulhos_SP,Manhã,App,Beleza,Entrega padrão,4,307.52,Não,0.00,36.70,30.30,5.00
+PED-2026-0151,2026-09-25 11:31,CD_Cajamar_SP,Manhã,Marketplace,Moda,Entrega expressa,5,656.45,Sim,5.00,4.40,41.50,
+PED-2026-0025,2026-09-25 12:22,CD_Cajamar_SP,Tarde,Marketplace,Eletrônicos,Entrega padrão,1,454.79,Sim,10.00,4.90,28.50,4.00
+PED-2026-0132,2026-09-25 12:38,CD_Contagem_MG,Tarde,Site,Beleza,Entrega padrão,4,286.08,Não,0.00,17.00,50.20,
+PED-2026-0007,2026-09-25 13:00,CD_Cajamar_SP,Tarde,Site,Casa e cozinha,Entrega padrão,2,162.03,Sim,20.00,25.40,28.60,4.00
+PED-2026-0170,2026-09-25 13:50,CD_Cajamar_SP,Tarde,App,Eletrônicos,Entrega padrão,3,771.15,Não,0.00,8.30,25.90,
+PED-2026-0080,2026-09-25 13:52,CD_Cajamar_SP,Tarde,App,Moda,Entrega expressa,4,270.27,Não,0.00,43.00,27.80,5.00
+PED-2026-0047,2026-09-25 14:15,CD_Guarulhos_SP,Tarde,Site,Esporte,Retirada,7,192.11,Não,0.00,,580.00,4.00
+PED-2026-0082,2026-09-25 16:35,CD_Cajamar_SP,Tarde,App,Esporte,Retirada,3,331.56,Não,0.00,,38.20,
+PED-2026-0114,2026-09-25 16:58,CD_Cajamar_SP,Tarde,Site,Beleza,Entrega padrão,6,402.39,Não,0.00,46.90,41.70,
+PED-2026-0005,2026-09-25 17:08,CD_Cajamar_SP,Tarde,Site,Moda,Retirada,4,235.78,Sim,20.00,,35.50,4.00
+PED-2026-0013,2026-09-25 17:52,CD_Contagem_MG,Tarde,Site,Beleza,Entrega padrão,2,160.61,Não,0.00,12.60,24.40,4.00
+PED-2026-0155,2026-09-25 18:28,CD_Contagem_MG,Noite,Site,Casa e cozinha,Entrega padrão,6,675.15,Sim,20.00,27.20,44.40,3.00
+PED-2026-0042,2026-09-25 18:29,CD_Guarulhos_SP,Noite,Marketplace,Moda,Entrega padrão,2,152.22,Não,0.00,19.60,27.00,4.00
+PED-2026-0003,2026-09-25 18:39,CD_Contagem_MG,Noite,App,Eletrônicos,Entrega expressa,3,925.28,Sim,5.00,22.60,41.50,
+PED-2026-0024,2026-09-25 19:10,CD_Cajamar_SP,Noite,Marketplace,Casa e cozinha,Entrega padrão,2,134.73,Não,,13.40,29.10,
+PED-2026-0121,2026-09-25 20:02,CD_Guarulhos_SP,Noite,Site,Esporte,Entrega padrão,5,585.32,Sim,20.00,25.30,35.20,5.00
+PED-2026-0091,2026-09-25 20:24,CD_Cajamar_SP,Noite,Marketplace,Eletrônicos,Entrega padrão,5,1475.55,Sim,20.00,27.50,45.60,5.00
+PED-2026-0084,2026-09-26 07:09,CD_Cajamar_SP,Manhã,Site,Beleza,Entrega padrão,3,329.24,Sim,15.00,9.90,32.00,4.00
+PED-2026-0054,2026-09-26 07:39,CD_Contagem_MG,Manhã,App,Eletrônicos,Entrega padrão,3,855.51,Não,0.00,7.90,39.90,5.00
+PED-2026-0127,2026-09-26 08:12,CD_Contagem_MG,Manhã,Site,Beleza,Entrega expressa,4,411.50,Não,0.00,8.90,33.80,4.00
+PED-2026-0116,2026-09-26 09:08,CD_Guarulhos_SP,Manhã,App,Casa e cozinha,Entrega padrão,3,398.43,Não,0.00,36.30,24.70,3.00
+PED-2026-0009,2026-09-26 09:13,CD_Guarulhos_SP,Manhã,Site,Moda,Entrega expressa,3,337.70,Não,0.00,20.20,27.50,4.00
+PED-2026-0073,2026-09-26 09:48,CD_Guarulhos_SP,Manhã,App,Esporte,Entrega padrão,2,196.05,Não,0.00,16.60,28.30,4.00
+PED-2026-0171,2026-09-26 10:15,CD_Guarulhos_SP,Manhã,Marketplace,Esporte,Entrega padrão,4,115.98,Não,0.00,13.50,190.00,4.00
+PED-2026-0156,2026-09-26 11:10,CD_Contagem_MG,Manhã,App,Esporte,Retirada,3,571.44,Não,0.00,,22.20,4.00
+PED-2026-0039,2026-09-26 11:13,CD_Cajamar_SP,Manhã,Marketplace,Beleza,Entrega padrão,4,270.76,Não,,19.70,38.40,5.00
+PED-2026-0061,2026-09-26 11:50,CD_Cajamar_SP,Manhã,Marketplace,Esporte,Retirada,6,748.58,Sim,10.00,,44.20,
+PED-2026-0131,2026-09-26 11:56,CD_Guarulhos_SP,Manhã,Site,Esporte,Entrega padrão,1,160.75,Não,0.00,50.90,16.50,5.00
+PED-2026-0086,2026-09-26 13:17,CD_Cajamar_SP,Tarde,Marketplace,Moda,Entrega expressa,3,292.48,Sim,10.00,6.20,35.00,
+PED-2026-0097,2026-09-26 15:55,CD_Cajamar_SP,Tarde,Site,Moda,Entrega padrão,4,261.58,Não,0.00,14.60,36.70,
+PED-2026-0159,2026-09-26 16:03,CD_Cajamar_SP,Tarde,Site,Eletrônicos,Retirada,8,5870.00,Não,,,244.00,5.00
+PED-2026-0062,2026-09-26 16:14,CD_Guarulhos_SP,Tarde,App,Moda,Entrega padrão,6,607.50,Sim,10.00,16.00,56.70,5.00
+PED-2026-0165,2026-09-26 17:04,CD_Guarulhos_SP,Tarde,App,Casa e cozinha,Entrega padrão,4,253.96,Não,0.00,12.80,29.00,
+PED-2026-0031,2026-09-26 17:05,CD_Contagem_MG,Tarde,Site,Moda,Entrega padrão,3,180.48,Sim,10.00,12.90,28.20,
+PED-2026-0152,2026-09-26 17:29,CD_Cajamar_SP,Tarde,Site,Casa e cozinha,Entrega padrão,6,928.18,Não,0.00,17.10,51.40,4.00
+PED-2026-0173,2026-09-26 17:33,CD_Contagem_MG,Tarde,Site,Casa e cozinha,Entrega padrão,5,836.03,Não,0.00,14.60,43.80,5.00
+PED-2026-0083,2026-09-26 18:19,CD_Contagem_MG,Noite,App,Eletrônicos,Entrega padrão,3,641.19,Não,0.00,12.20,27.20,4.00
+PED-2026-0069,2026-09-26 18:40,CD_Guarulhos_SP,Noite,Marketplace,Beleza,Retirada,3,112.88,Não,0.00,,17.60,4.00
+PED-2026-0010,2026-09-26 18:46,CD_Contagem_MG,Noite,Site,Beleza,Entrega padrão,1,64.99,Sim,15.00,31.60,21.90,4.00
+PED-2026-0176,2026-09-26 18:59,CD_Cajamar_SP,Noite,Site,Eletrônicos,Retirada,3,623.14,Não,,,28.40,4.00
+PED-2026-0157,2026-09-26 19:13,CD_Contagem_MG,Noite,Site,Esporte,Entrega padrão,6,915.58,Sim,10.00,17.60,56.10,3.00
+PED-2026-0006,2026-09-26 19:25,CD_Cajamar_SP,Noite,Site,Beleza,Entrega padrão,3,282.00,Não,0.00,3.30,17.70,3.00
+PED-2026-0143,2026-09-26 19:33,CD_Contagem_MG,Noite,Marketplace,Moda,Entrega expressa,6,214.81,Não,,29.70,37.30,5.00
+PED-2026-0175,2026-09-26 19:53,CD_Guarulhos_SP,Noite,Site,Moda,Entrega expressa,1,78.30,Não,0.00,2.90,19.00,4.00
+PED-2026-0012,2026-09-26 20:25,CD_Guarulhos_SP,Noite,Marketplace,Casa e cozinha,Retirada,6,613.15,Não,,,40.80,
+PED-2026-0106,2026-09-26 20:30,CD_Cajamar_SP,Noite,Site,Beleza,Entrega padrão,4,248.45,Não,0.00,17.70,35.90,4.00
+PED-2026-0126,2026-09-26 20:45,CD_Cajamar_SP,Noite,App,Eletrônicos,Retirada,7,1823.61,Não,0.00,,61.70,4.00
+PED-2026-0064,2026-09-27 07:05,CD_Guarulhos_SP,Manhã,App,Casa e cozinha,Entrega padrão,4,323.39,Não,0.00,21.20,21.20,
+PED-2026-0099,2026-09-27 08:49,CD_Contagem_MG,Manhã,Marketplace,Moda,Entrega expressa,3,346.38,Não,0.00,34.70,19.20,
+PED-2026-0001,2026-09-27 09:08,CD_Guarulhos_SP,Manhã,Site,Moda,Entrega expressa,6,709.57,Não,0.00,40.70,41.30,5.00
+PED-2026-0081,2026-09-27 09:27,CD_Contagem_MG,Manhã,Site,Esporte,Entrega expressa,5,426.06,Sim,5.00,39.40,34.30,5.00
+PED-2026-0179,2026-09-27 09:59,CD_Contagem_MG,Manhã,App,Moda,Entrega padrão,4,389.68,Sim,20.00,8.00,35.20,5.00
+PED-2026-0036,2026-09-27 10:48,CD_Cajamar_SP,Manhã,Site,Moda,Entrega expressa,7,925.37,Não,0.00,7.10,47.10,5.00
+PED-2026-0174,2026-09-27 11:52,CD_Guarulhos_SP,Manhã,App,Beleza,Entrega padrão,5,468.33,Sim,15.00,37.30,24.70,4.00
+PED-2026-0049,2026-09-27 12:02,CD_Guarulhos_SP,Tarde,App,Eletrônicos,Entrega padrão,5,1339.35,Não,0.00,20.40,38.30,3.00
+PED-2026-0148,2026-09-27 12:12,CD_Cajamar_SP,Tarde,Site,Esporte,Retirada,6,730.96,Sim,5.00,,39.70,5.00
+PED-2026-0122,2026-09-27 13:49,CD_Cajamar_SP,Tarde,Site,Beleza,Retirada,5,216.21,Sim,10.00,,37.20,
+PED-2026-0033,2026-09-27 13:51,CD_Contagem_MG,Tarde,App,Beleza,Entrega padrão,2,204.69,Não,0.00,22.00,22.20,
+PED-2026-0090,2026-09-27 15:02,CD_Cajamar_SP,Tarde,Marketplace,Beleza,Entrega padrão,4,270.00,Sim,15.00,12.40,25.30,
+PED-2026-0029,2026-09-27 16:59,CD_Guarulhos_SP,Tarde,Site,Casa e cozinha,Retirada,6,638.74,Sim,5.00,,40.90,4.00
+PED-2026-0141,2026-09-27 17:44,CD_Contagem_MG,Tarde,App,Moda,Entrega padrão,7,289.45,Sim,5.00,35.90,50.20,
+PED-2026-0068,2026-09-27 18:11,CD_Cajamar_SP,Noite,App,Eletrônicos,Retirada,5,1170.40,Não,0.00,,40.10,
+PED-2026-0093,2026-09-27 18:53,CD_Cajamar_SP,Noite,Site,Moda,Entrega padrão,4,353.58,Não,0.00,16.50,42.70,
+PED-2026-0108,2026-09-27 19:25,CD_Contagem_MG,Noite,Site,Eletrônicos,Entrega expressa,1,313.43,Não,0.00,41.60,25.50,5.00
+PED-2026-0053,2026-09-27 19:43,CD_Guarulhos_SP,Noite,App,Beleza,Entrega expressa,4,212.58,Não,0.00,5.70,23.90,3.00
+PED-2026-0118,2026-09-27 19:44,CD_Cajamar_SP,Noite,Site,Moda,Entrega padrão,3,227.95,Não,0.00,4.30,18.30,4.00
+PED-2026-0125,2026-09-27 20:28,CD_Guarulhos_SP,Noite,App,Moda,Entrega padrão,4,481.72,Sim,10.00,46.40,29.60,
